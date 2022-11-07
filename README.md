@@ -10,4 +10,4 @@ With the Flutter Slidable and Dismissable Widgets, you can swipe to reveal actio
 
 
 
- <a href="https://youtu.be/QdbgJyaQQfc" target="_blank"><img src="preview.gif" width="350"></a> 
+ <a href="https://youtu.be/QdbgJyaQQfc" target="_blank"><img src="preview.gif"></a> 
